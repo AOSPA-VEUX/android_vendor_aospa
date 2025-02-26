@@ -1,7 +1,7 @@
 [
     {
         "remote":       "github",
-        "repository":   "mamutal91/device_xiaomi_veux",
+        "repository":   "AOSPA-VEUX/android_device_xiaomi_veux",
         "target_path":  "device/xiaomi/veux",
         "revision":     "topaz"
     },
@@ -13,7 +13,7 @@
     },
     {
         "remote":       "gitlab",
-        "repository":   "mamutal91/vendor_xiaomi_veux",
+        "repository":   "takixamru/vendor_xiaomi_veux-aospa",
         "target_path":  "vendor/xiaomi/veux",
         "revision":     "topaz"
     },
