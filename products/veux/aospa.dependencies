@@ -7,9 +7,9 @@
     },
     {
         "remote":       "github",
-        "repository":   "mamutal91/device_xiaomi_veux-kernel",
-        "target_path":  "device/xiaomi/veux-kernel",
-        "revision":     "topaz"
+        "repository":   "PaimonLab/kernel_xiaomi_veux.git",
+        "target_path":  "kernel/xiaomi/veux",
+        "revision":     "14"
     },
     {
         "remote":       "gitlab",
